@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Harsh3041/My-Chat-App"
+    "url": "git+https://github.com/Harsh3041/My-Chat"
   },
   "author": "Harsh Sharma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FSProLovish/ChatWebApp/issues"
   },
-  "homepage": "https://github.com/FSProLovish/ChatWebApp#readme",
+  "homepage": "https://github.com/Harsh3041clear",
   "dependencies": {
     "connect-mongo": "^4.6.0",
     "cookie-parser": "^1.4.6",
