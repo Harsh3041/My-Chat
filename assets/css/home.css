@@ -1,0 +1,12 @@
+body {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link {
+  padding: 20px;
+  font-size: 25px;
+  font-weight: 1000;
+}
